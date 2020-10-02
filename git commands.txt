@@ -1,0 +1,61 @@
+
+cd interne-lab
+git checkout hira-djangoApp 
+git init
+git add . 
+git commit -m "django project directory uploaded" 
+git push
+
+
+
+git clone https://github.com/hiraaltaf086/Weatherman086
+cd Weatherman086
+git checkout hira-djangoApp
+git rm -r sh_djangoAssignment 
+git commit . -m "Removed old directory"
+git push origin hira-djangoApp
+
+
+git init
+git add .
+ git commit -m "updated project directory uploaded"
+ git push
+
+
+
+
+git commit -m "django project directory uploaded" 
+git push
+
+git pull upstream master
+
+
+
+
+git clone https://github.com/ChWasiUllah/interne-lab
+cd interne-lab
+git checkout hira-djangoApp 
+git rm -r djangoproject
+git commit . -m "Removed old directory"
+git push origin hira-djangoApp 
+git init
+git add .
+git commit -m "updated project directory"
+git push origin hira-djangoApp 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
